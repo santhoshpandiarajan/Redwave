@@ -29,8 +29,3 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 2. 'file' contains the files for the backend connections.
 3. 'image' and 'jastimage' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
-
-
-## If you liked the project and found it helpful
-Give a start 😄:star:
-
